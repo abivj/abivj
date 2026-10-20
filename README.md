@@ -1,60 +1,71 @@
 <div align="center">
 
-# Hey, I'm Abi Joy 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=210&section=header&text=Abi%20Joy&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="Abi Joy — Full-Stack Software Developer" width="100%" />
 
-### Full-Stack Software Developer
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+reliable+web+applications;Turning+complex+problems+into+clean+solutions;Frontend+%2B+Backend+%2B+Database;Always+learning.+Always+building." alt="Typing introduction" />
+</a>
 
-**Building useful web products, reliable APIs, and thoughtful user experiences.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-abivj-181717?style=for-the-badge&logo=github)](https://github.com/abivj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abi-joy)
+<p>
+  <a href="https://github.com/abivj"><img src="https://img.shields.io/badge/GitHub-abivj-111827?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/abi-joy"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_Development-0F766E?style=for-the-badge" alt="Focus: full-stack development" />
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ About Me
 
-I'm a software developer who enjoys working across the stack—from building responsive interfaces to designing APIs and working with databases.
+Hey! I'm **Abi Joy**, a software developer who enjoys building applications from the user interface down to the database. I care about readable code, useful features, secure APIs, and systems that are easier to maintain as they grow.
 
-- 💻 **Frontend:** React, Next.js, JavaScript, TypeScript
-- ⚙️ **Backend:** Node.js, .NET, Django, REST APIs
+- 🧩 **I build:** Web applications, business systems, dashboards, and REST APIs
+- 🎨 **Frontend:** React, Next.js, JavaScript, TypeScript, Material UI
+- ⚙️ **Backend:** .NET / ASP.NET, Node.js, Django, REST APIs
 - 🗄️ **Data:** SQL Server, PostgreSQL, MySQL, MongoDB
-- 🔐 **Engineering interests:** API design, authentication, role-based access control, and maintainable architecture
-- 🌱 Always learning, improving, and building practical software
+- 🔐 **Interests:** Authentication, role-based access control, API design, and database architecture
+- 🌱 **Mindset:** Keep learning, keep shipping, keep improving
 
-## 🧰 Technologies
+## 🧑‍💻 My Toolbox
+
+<div align="center">
 
 ### Frontend
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui&perline=8" alt="Frontend technologies" />
 
-### Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,dotnet&perline=7" alt="Backend technologies" />
 
-### Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+### Databases & Developer Tools
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,git,github,docker,linux,postman,visualstudio&perline=8" alt="Databases and developer tools" />
+
+</div>
+
+## 🛠️ What I Like Building
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ Backend & APIs</h3>
+      Modular services, REST API integrations, validation, authentication, and maintainable server-side code.
+    </td>
+    <td width="50%">
+      <h3>📊 Business Applications</h3>
+      Data-heavy screens, dashboards, workflow tools, reporting, and practical enterprise features.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗄️ Database Engineering</h3>
+      SQL queries, stored procedures, relational data models, and reliable data workflows.
+    </td>
+    <td width="50%">
+      <h3>✨ User Experiences</h3>
+      Responsive interfaces, reusable components, accessible layouts, and clear interactions.
+    </td>
+  </tr>
+</table>
 
 ## 💼 Experience
 
@@ -66,30 +77,46 @@ Working on full-stack features using .NET, Next.js, and Node.js, including REST 
 **Software Developer · Progressive Software Solutions and Training**  
 *April 2023 – May 2026*
 
-Built and maintained applications using React/Next.js, Node.js, NestJS, Django, and FastAPI. Contributed to authentication, role-based access control, database design, dashboards, and reporting.
+Developed and maintained applications using React/Next.js, Node.js, NestJS, Django, and FastAPI. Worked on authentication, role-based access control, database design, dashboards, and reporting.
 
-## 📈 GitHub at a Glance
+## 📌 Featured Work
+
+I'm using GitHub to showcase practical software and experiments. For the strongest portfolio, this section should link to **real public repositories** with a clear README, screenshots, setup steps, and a demo where possible.
+
+- **Business application / dashboard** — showcase a real UI project and its main workflows.
+- **API or backend service** — showcase API design, validation, authentication, and database integration.
+- **Database or automation project** — showcase a useful SQL, reporting, or developer-tool solution.
+
+*These are portfolio suggestions, not claims that those specific repositories already exist.*
+
+## 📈 GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abivj&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170" alt="GitHub profile statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abivj&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abivj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats for abivj" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abivj&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages for abivj" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abivj&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=abivj&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for abivj" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abivj&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
 </div>
 
 ## 🤝 Let's Connect
 
-I'm happy to connect with developers, collaborate on useful projects, and exchange ideas about software engineering.
+Have an interesting project, an idea to build, or a technical topic to discuss? Let's connect.
 
-- 💼 LinkedIn: [abi-joy](https://www.linkedin.com/in/abi-joy)
-- 🐙 GitHub: [@abivj](https://github.com/abivj)
-
----
+<p>
+  <a href="https://github.com/abivj"><img src="https://img.shields.io/badge/Explore_my_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my code" /></a>
+  <a href="https://www.linkedin.com/in/abi-joy"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+</p>
 
 <div align="center">
 
-*“Great software solves real problems—and stays understandable as it grows.”*
+### 💡 Build with purpose. Keep it clean. Make it useful.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0F172A&height=100&section=footer" alt="" width="100%" />
 
 </div>
