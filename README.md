@@ -16,74 +16,30 @@
 
 ## 👋 About Me
 
-I'm **Abi Joy**, a Full-Stack Software Developer who enjoys turning ideas into practical web applications. I work across responsive interfaces, backend APIs, and database workflows—with a focus on maintainable code and useful user experiences.
+I'm **Abi Joy**, a Full-Stack Software Developer building practical web applications across frontend, backend, and databases.
 
-### Technologies I Use
-
-| **Frontend** | **Backend & APIs** |
-|:--|:--|
-| React · Next.js · JavaScript · TypeScript · Material UI | .NET · Node.js · Express · Django · FastAPI |
-
-| **Databases** | **Tools** |
-|:--|:--|
-| SQL Server · PostgreSQL · MySQL · MongoDB · Firebase | Git · GitHub · Docker · Linux · Postman |
-
-## 🌐 Portfolio
-
-<div align="center">
-
-**Explore my work beyond GitHub**
-
-<a href="https://abivjoy.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_OPEN_MY_PORTFOLIO-abivjoy.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Abi Joy's portfolio website" />
-</a>
-
-*Projects · Skills · Background · More about me*
-
-</div>
+- **Frontend:** React, Next.js, JavaScript, TypeScript, Material UI
+- **Backend:** .NET / ASP.NET, Node.js, Django, REST APIs
+- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Material UI" />
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,dotnet&perline=7" alt="Node.js, Express, NestJS, Python, Django, FastAPI, .NET" />
-
-**Databases & Tools**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,git,github,docker,linux,postman,visualstudio&perline=5" alt="PostgreSQL, MySQL, MongoDB, Firebase, Git, GitHub, Docker, Linux, Postman, Visual Studio" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,dotnet,python,django,mssql,postgres,mongodb,git,docker&perline=7" alt="React, Next.js, JavaScript, TypeScript, Node.js, .NET, Python, Django, SQL Server, PostgreSQL, MongoDB, Git, Docker" />
 
 </div>
 
+## 🌐 Portfolio
+
+Check out **[abivjoy.vercel.app](https://abivjoy.vercel.app/)** for my projects, skills, and background.
+
 ## 🛠️ What I Build
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend & APIs</h3>
-      Modular services, REST API integrations, validation, authentication, and maintainable server-side code.
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Business Applications</h3>
-      Dashboards, data-heavy screens, workflow tools, reporting, and enterprise features.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗄️ Database Development</h3>
-      SQL queries, stored procedures, relational data models, and dependable data workflows.
-    </td>
-    <td width="50%" valign="top">
-      <h3>✨ Frontend Experiences</h3>
-      Responsive interfaces, reusable components, and clear, accessible interactions.
-    </td>
-  </tr>
-</table>
+- **Backend & APIs:** REST API integrations, validation, authentication, and maintainable services.
+- **Business applications:** Dashboards, workflow tools, reporting, and enterprise features.
+- **Database development:** SQL queries, stored procedures, relational data models, and reliable data workflows.
+- **Frontend experiences:** Responsive interfaces, reusable components, and clear interactions.
 
 ## 💼 Experience
 
