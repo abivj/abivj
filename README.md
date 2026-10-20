@@ -16,23 +16,62 @@
 
 ## 👋 About Me
 
-I'm **Abi Joy**, a Full-Stack Software Developer building practical web applications across frontend, backend, and databases.
-
-- **Frontend:** React, Next.js, JavaScript, TypeScript, Material UI
-- **Backend:** .NET / ASP.NET, Node.js, Django, REST APIs
-- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
+I'm **Abi Joy**, a Full-Stack Software Developer who turns ideas into practical, reliable web applications—from polished interfaces to backend APIs and database workflows.
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,dotnet,python,django,mssql,postgres,mongodb,git,docker&perline=7" alt="React, Next.js, JavaScript, TypeScript, Node.js, .NET, Python, Django, SQL Server, PostgreSQL, MongoDB, Git, Docker" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🎨 FRONTEND</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,materialui&perline=6" alt="React, Next.js, JavaScript, TypeScript, Tailwind CSS, Material UI" />
+      <br/>
+      <sub>Responsive interfaces · Reusable components</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>⚙️ BACKEND</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs,python,django,fastapi&perline=7" alt=".NET, Node.js, Express, NestJS, Python, Django, FastAPI" />
+      <br/>
+      <sub>REST APIs · Authentication · Business logic</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🗄️ DATABASES</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,mongodb,firebase&perline=5" alt="SQL Server, PostgreSQL, MySQL, MongoDB, Firebase" />
+      <br/>
+      <sub>Data modelling · Queries · Reliable workflows</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>🧰 TOOLS</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,visualstudio&perline=6" alt="Git, GitHub, Docker, Linux, Postman, Visual Studio" />
+      <br/>
+      <sub>Version control · Testing · Development</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ## 🌐 Portfolio
 
-Check out **[abivjoy.vercel.app](https://abivjoy.vercel.app/)** for my projects, skills, and background.
+<div align="center">
+
+**See what I build beyond GitHub.**
+
+<a href="https://abivjoy.vercel.app/">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-Visit_abivjoy.vercel.app-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Abi Joy's portfolio" />
+</a>
+
+<sub>Projects · Skills · Background</sub>
+
+</div>
 
 ## 🛠️ What I Build
 
