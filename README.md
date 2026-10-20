@@ -18,57 +18,21 @@
 
 I'm **Abi Joy**, a Full-Stack Software Developer who enjoys turning ideas into practical web applications. I work across responsive interfaces, backend APIs, and database workflows—with a focus on maintainable code and useful user experiences.
 
-<div align="center">
+### Technologies I Use
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/01-FRONTEND-0891B2?style=for-the-badge" alt="Frontend" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,materialui&perline=5" alt="React, Next.js, JavaScript, TypeScript, Material UI" />
-      <br/>
-      <sub><b>Interfaces that feel intuitive</b></sub>
-      <br/>
-      <sub>React · Next.js · JavaScript · TypeScript · MUI</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/02-BACKEND-7C3AED?style=for-the-badge" alt="Backend" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,django,fastapi&perline=5" alt=".NET, Node.js, Express, Django, FastAPI" />
-      <br/>
-      <sub><b>Reliable services & APIs</b></sub>
-      <br/>
-      <sub>.NET · Node.js · Django · REST APIs</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/03-DATA-0F766E?style=for-the-badge" alt="Data" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,mongodb,firebase&perline=5" alt="SQL Server, PostgreSQL, MySQL, MongoDB, Firebase" />
-      <br/>
-      <sub><b>Structured, dependable data</b></sub>
-      <br/>
-      <sub>SQL Server · PostgreSQL · MySQL · MongoDB</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/04-TOOLS-DB2777?style=for-the-badge" alt="Tools" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman&perline=5" alt="Git, GitHub, Docker, Linux, Postman" />
-      <br/>
-      <sub><b>Build, test & ship</b></sub>
-      <br/>
-      <sub>Git · Docker · Linux · Postman</sub>
-    </td>
-  </tr>
-</table>
+| **Frontend** | **Backend & APIs** |
+|:--|:--|
+| React · Next.js · JavaScript · TypeScript · Material UI | .NET · Node.js · Express · Django · FastAPI |
 
-</div>
+| **Databases** | **Tools** |
+|:--|:--|
+| SQL Server · PostgreSQL · MySQL · MongoDB · Firebase | Git · GitHub · Docker · Linux · Postman |
+
 ## 🌐 Portfolio
 
 <div align="center">
 
-### Explore my work beyond GitHub
+**Explore my work beyond GitHub**
 
 <a href="https://abivjoy.vercel.app/">
   <img src="https://img.shields.io/badge/🚀_OPEN_MY_PORTFOLIO-abivjoy.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Abi Joy's portfolio website" />
